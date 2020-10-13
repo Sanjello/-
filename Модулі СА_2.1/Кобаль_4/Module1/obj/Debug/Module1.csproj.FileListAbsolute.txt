@@ -1,0 +1,9 @@
+C:\Users\Ozzy Store\source\repos\Module1\bin\Debug\Module1.exe.config
+C:\Users\Ozzy Store\source\repos\Module1\bin\Debug\Module1.exe
+C:\Users\Ozzy Store\source\repos\Module1\bin\Debug\Module1.pdb
+C:\Users\Ozzy Store\source\repos\Module1\obj\Debug\Module1.csprojAssemblyReference.cache
+C:\Users\Ozzy Store\source\repos\Module1\obj\Debug\Module1.Form1.resources
+C:\Users\Ozzy Store\source\repos\Module1\obj\Debug\Module1.Properties.Resources.resources
+C:\Users\Ozzy Store\source\repos\Module1\obj\Debug\Module1.csproj.GenerateResource.cache
+C:\Users\Ozzy Store\source\repos\Module1\obj\Debug\Module1.exe
+C:\Users\Ozzy Store\source\repos\Module1\obj\Debug\Module1.pdb
