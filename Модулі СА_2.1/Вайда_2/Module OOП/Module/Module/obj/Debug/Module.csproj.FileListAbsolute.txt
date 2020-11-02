@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Module OOП\Module\Module\obj\Debug\Module.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Module OOП\Module\Module\obj\Debug\Module.Form1.resources
+C:\Users\User\Desktop\Module OOП\Module\Module\obj\Debug\Module.Properties.Resources.resources
+C:\Users\User\Desktop\Module OOП\Module\Module\obj\Debug\Module.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Module OOП\Module\Module\bin\Debug\Module.exe.config
+C:\Users\User\Desktop\Module OOП\Module\Module\bin\Debug\Module.exe
+C:\Users\User\Desktop\Module OOП\Module\Module\bin\Debug\Module.pdb
+C:\Users\User\Desktop\Module OOП\Module\Module\obj\Debug\Module.exe
+C:\Users\User\Desktop\Module OOП\Module\Module\obj\Debug\Module.pdb
+C:\Users\User\Desktop\Module OOП\Module\Module\obj\Debug\Module.csproj.CoreCompileInputs.cache
