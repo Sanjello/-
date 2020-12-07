@@ -1,0 +1,22 @@
+C:\Users\Ozzy Store\source\repos\Module2\bin\Debug\Gallery.mdf
+C:\Users\Ozzy Store\source\repos\Module2\bin\Debug\Gallery_log.ldf
+C:\Users\Ozzy Store\source\repos\Module2\bin\Debug\Module2.exe.config
+C:\Users\Ozzy Store\source\repos\Module2\bin\Debug\Module2.exe
+C:\Users\Ozzy Store\source\repos\Module2\bin\Debug\Module2.pdb
+C:\Users\Ozzy Store\source\repos\Module2\obj\Debug\Module2.csprojAssemblyReference.cache
+C:\Users\Ozzy Store\source\repos\Module2\obj\Debug\Module2.Form1.resources
+C:\Users\Ozzy Store\source\repos\Module2\obj\Debug\Module2.Properties.Resources.resources
+C:\Users\Ozzy Store\source\repos\Module2\obj\Debug\Module2.csproj.GenerateResource.cache
+C:\Users\Ozzy Store\source\repos\Module2\obj\Debug\Module2.exe
+C:\Users\Ozzy Store\source\repos\Module2\obj\Debug\Module2.pdb
+C:\Module2\bin\Debug\Gallery.mdf
+C:\Module2\bin\Debug\Gallery_log.ldf
+C:\Module2\bin\Debug\Module2.exe.config
+C:\Module2\bin\Debug\Module2.exe
+C:\Module2\bin\Debug\Module2.pdb
+C:\Module2\obj\Debug\Module2.csprojAssemblyReference.cache
+C:\Module2\obj\Debug\Module2.Form1.resources
+C:\Module2\obj\Debug\Module2.Properties.Resources.resources
+C:\Module2\obj\Debug\Module2.csproj.GenerateResource.cache
+C:\Module2\obj\Debug\Module2.exe
+C:\Module2\obj\Debug\Module2.pdb

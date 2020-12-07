@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Модулі\Модуль СА_2.2\Луць_5\Module\Module\bin\Debug\Auto.mdf
+C:\Users\User\Desktop\Модулі\Модуль СА_2.2\Луць_5\Module\Module\bin\Debug\Auto_log.ldf
+C:\Users\User\Desktop\Модулі\Модуль СА_2.2\Луць_5\Module\Module\bin\Debug\Module.exe.config
+C:\Users\User\Desktop\Модулі\Модуль СА_2.2\Луць_5\Module\Module\bin\Debug\Module.exe
+C:\Users\User\Desktop\Модулі\Модуль СА_2.2\Луць_5\Module\Module\bin\Debug\Module.pdb
+C:\Users\User\Desktop\Модулі\Модуль СА_2.2\Луць_5\Module\Module\obj\Debug\Module.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Модулі\Модуль СА_2.2\Луць_5\Module\Module\obj\Debug\Module.Form1.resources
+C:\Users\User\Desktop\Модулі\Модуль СА_2.2\Луць_5\Module\Module\obj\Debug\Module.Properties.Resources.resources
+C:\Users\User\Desktop\Модулі\Модуль СА_2.2\Луць_5\Module\Module\obj\Debug\Module.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Модулі\Модуль СА_2.2\Луць_5\Module\Module\obj\Debug\Module.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Модулі\Модуль СА_2.2\Луць_5\Module\Module\obj\Debug\Module.exe
+C:\Users\User\Desktop\Модулі\Модуль СА_2.2\Луць_5\Module\Module\obj\Debug\Module.pdb
